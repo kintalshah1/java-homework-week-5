@@ -1,10 +1,10 @@
 public class BioData {
 
     public static void main(String []arg) {
-        System.out.println("Kintal Shah");
-        System.out.println("Crawley");
-        System.out.println("West Sussex");
-        System.out.println("United Kingdom");
+        System.out.println("Name: Kintal Shah");
+        System.out.println("City: Crawley");
+        System.out.println("County: West Sussex");
+        System.out.println("Country: United Kingdom");
 
 
     }
